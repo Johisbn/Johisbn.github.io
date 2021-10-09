@@ -1,0 +1,149 @@
+.titulo1{
+    font-size: 5em;
+    margin-top: 0mm;
+    margin-left: 50mm;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titulo2{
+    font-style: normal;
+    font-size: 2em;
+    color: #ffff65;
+    margin-left: 20mm;
+}
+.titulo3{
+    font-style: normal;
+    font-size: 3em;
+    color: #ffff65;
+    margin-left: 50mm;
+}
+nav{
+    color: white;
+    font-size: 1em;
+    margin-left: 20mm;
+    text-decoration: none;
+
+}
+.section1{
+    display: flex;
+    justify-content: left;
+    margin:  0pc;
+}
+.sectionb{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+}
+.cajab{
+    background-color: rgb(0, 128, 128);
+    margin= 0px;
+    width: 100%;
+    height: auto;
+}
+.secgaleria{
+    display: flex;
+    justify-content: space-around ;
+    margin:  0pc;
+}
+.caja1{
+    background-color: teal;
+    margin= 0px;
+    width: 600px;
+    height: auto;
+}
+.imagen2{
+    width: 100px;
+    height: auto;
+}
+.caja2{
+    width: 600px;
+    margin: 0pc;
+    height: auto;
+
+}
+.caja3{
+    text-align: center;
+    width: 650px;
+    margin: 0pc;
+    height: auto;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+.caja4{
+    text-align: center;
+    width: 1300px;
+    margin: 0pc;
+    height: auto;
+}
+.imagen3{
+    width: 650px;
+    height: auto;
+    text-align: center;
+}
+.imagen4{
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
+.sobremi{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 3em;
+    font-weight: bold;
+    color: teal;
+}
+.texto2{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 25px;
+}
+.button {
+    background-color: #fcf974; /* yellow */
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+.text3{
+    font-size: 3em;
+    font-family: Georgia;
+    font-weight: bold;
+    color: rgba(255, 255, 0, 0.829);
+    padding: 2em;
+}
+.text4{
+    font-size: 20px;
+    font-family: Georgia;
+    font-weight: bold;
+    color: white;
+    margin-left: 5em;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    margin-right: 5mm ;
+  }
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
